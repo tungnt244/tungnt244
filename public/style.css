@@ -1,0 +1,34 @@
+body{
+    margin:0px;
+    background:#000;
+    padding-top: 70px;
+}
+.full {
+    background: url('./background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+}
+.header {
+    height:50px;
+    background:#F0F0F0;
+    border:1px solid #CCC;
+    width:960px;
+    margin:0px auto;
+}
+.content {
+    width:960px;
+    /*background: #F0F0F0;*/
+    border: 1px solid #CCC;
+    height: 2000px;
+    margin: 70px auto;
+}
+p {
+    color: white;
+}
