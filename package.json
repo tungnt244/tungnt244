@@ -1,6 +1,7 @@
 {
   "name": "tung_personal_website",
   "version": "0.1.0",
+  "main": "index.json",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.9.0"
